@@ -9,4 +9,4 @@ def index():
 
 @main.route('/profile')
 def profile():
-    return 'Profile'
+    return 'Profile' 
